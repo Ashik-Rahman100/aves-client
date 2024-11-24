@@ -1,4 +1,5 @@
 export type TProperty = {
+  _id?: string;
   name: string;
   type: "House" | "Apartment" | "Commercial"; // Add other types if needed
   status: "Rented" | "Available"; // Add other statuses if needed

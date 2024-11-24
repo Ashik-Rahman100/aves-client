@@ -2,7 +2,7 @@
 
 ## Backend-url: https://aves-server.vercel.app
 
-## Video :
+## Video : https://youtu.be/jYmErZeNaJQ
 
 ## Feature:
 
@@ -26,3 +26,4 @@
 - Ant Design
 - Sonner
 - React-Hook-Form
+- Typescript

@@ -27,8 +27,8 @@ const Properties = () => {
   console.log(params);
 
   const tableData = propertyData?.data?.map(
-    ({ name, type, rent, status, checkIn, checkOut, contact, size }) => ({
-      key: contact,
+    ({ _id, name, type, rent, status, checkIn, checkOut, contact, size }) => ({
+      key: _id,
       name,
       type,
       rent,
