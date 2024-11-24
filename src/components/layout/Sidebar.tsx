@@ -53,7 +53,7 @@ const Sidebar = () => {
           alignItems: "center",
         }}
       >
-        <h1 className="demo-logo-vertical">PH Uni</h1>
+        <h1 className="demo-logo-vertical">Aves</h1>
       </div>
       <Menu
         theme="dark"
